@@ -16,7 +16,7 @@ ls
         git pull  
         git push  
           
-           ![imagen1](./imagenes/imagen3.png)
+![imagen1](./imagenes/imagen3.png)
 
 
 
