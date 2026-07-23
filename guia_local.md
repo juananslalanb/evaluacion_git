@@ -5,7 +5,7 @@ cd  documents
 mkdir evaluacion_guit  
 touch guia_local.md  
 ls  
-  
+ 
   vim guia_local.md  
-  ![imagen1](./imagenes/im1.png)
+  ![imagen1](./imagenes/imagen1.png)
 
